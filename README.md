@@ -56,5 +56,5 @@
 
 ---
 
-</br><p>Se chegour até aqui e possui alguma dúvida entre em contato.
+</br><p>Se chegou até aqui e possui alguma dúvida entre em contato.
 </br> Considere seguir o perfil, Obrigado!</p>
