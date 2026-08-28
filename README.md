@@ -5,7 +5,7 @@
 </div> <br/>
 
 <p>Sobre mim: </p>
-        <p>Sou o Arthur Gatz (Gatz para os amigos), tenho 21 anos, sou de Colombo/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
+        <p>Sou o Arthur Gatz, tenho 21 anos, sou de Colombo/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
         <p>🔍 - Atualmente estou em busca de novas oportunidades para continuar aprendendo e agregando a minha carreira.</br>
            🚀 - Estudante de Análise e Desenvolvimento de Sistemas no último periodo.</br>
            🎓 - Tenho formação como Técnico em Administração juntamente com o Ensino Médio (eu sei, uma mudança drástica de área 😂) 
