@@ -8,9 +8,10 @@
         <p>Sou o Arthur Gatz, tenho 21 anos, sou de Colombo/PR e estou seguindo uma jornada para me tornar um desenvolvedor.</p>
         <p>🔍 - Atualmente estou em busca de novas oportunidades para continuar aprendendo e agregando a minha carreira.</br>
            🚀 - Estudante de Análise e Desenvolvimento de Sistemas no último periodo.</br>
-           🎓 - Tenho formação como Técnico em Administração juntamente com o Ensino Médio (eu sei, uma mudança drástica de área 😂) 
+           🎓 - Tenho formação no Ensino Médio/Técnico Profissionalizante em Administração de Empresas (eu sei, uma mudança drástica de área 😂) 
         </p>
-
+        
+Sou uma pessoa com perfil de aprendizado contínuo e procuro acompanhar novas tecnologias e ferramentas que possam melhorar a qualidade e a produtividade do desenvolvimento.
   
 ---
 
@@ -44,7 +45,13 @@
 </br>
 
 ---
+</br>
+<p align='left'>🧪 Ultima Experiência:</p>
+<p>Na minha experiência mais recente, na Employer, iniciei como Estagiário Full-Stack e ao completar 1 ano fui efetivado para Desenvolvedor Full-Stack Júnior. Pude Atuar no ciclo completo de desenvolvimento de software, desde a análise de requisitos até a implementação, manutenção e correção de aplicações.
+Essa experiência me permitiu desenvolver uma visão mais completa do processo de desenvolvimento, além de fortalecer minha capacidade de analisar problemas, compreender requisitos e buscar soluções de forma organizada.</p>
+</br>
 
+---
 </br> 
 <!-- Redes Sociais e Contato -->
 <p align='center'>Contato<br/><br/>
