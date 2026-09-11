@@ -47,8 +47,16 @@ Sou uma pessoa com perfil de aprendizado contínuo e procuro acompanhar novas te
 ---
 </br>
 <p align='left'>🧪 Ultima Experiência:</p>
-<p>Na minha experiência mais recente, na Employer, iniciei como Estagiário Full-Stack e ao completar 1 ano fui efetivado para Desenvolvedor Full-Stack Júnior. Pude Atuar no ciclo completo de desenvolvimento de software, desde a análise de requisitos até a implementação, manutenção e correção de aplicações.
+<p align='left'>Na minha experiência mais recente, na Employer, iniciei como Estagiário Full-Stack e ao completar 1 ano fui efetivado para Desenvolvedor Full-Stack Júnior. Pude Atuar no ciclo completo de desenvolvimento de software, desde a análise de requisitos até a implementação, manutenção e correção de aplicações.
 Essa experiência me permitiu desenvolver uma visão mais completa do processo de desenvolvimento, além de fortalecer minha capacidade de analisar problemas, compreender requisitos e buscar soluções de forma organizada.</p>
+</br>
+
+---
+
+</br>
+<p align='left'>🧑‍💻 Conheça meus projetos:</p>
+<p align='left'>Financial System API: https://github.com/GatzArthur/FinancialSystem.API</p>
+<p align='left'>RCA Distribuição: https://github.com/GatzArthur/RCA-Distribuicao</p>
 </br>
 
 ---
@@ -64,4 +72,3 @@ Essa experiência me permitiu desenvolver uma visão mais completa do processo d
 ---
 
 </br><p>Se chegou até aqui e possui alguma dúvida entre em contato.
-</br> Considere seguir o perfil, Obrigado!</p>
