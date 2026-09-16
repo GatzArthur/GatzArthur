@@ -56,7 +56,7 @@ Essa experiência me permitiu desenvolver uma visão mais completa do processo d
 </br>
 <p align='left'>🧑‍💻 Conheça meus projetos:</p>
 <p align='left'>Financial System API: https://github.com/GatzArthur/FinancialSystem.API</p>
-<p align='left'>RCA Distribuição: https://github.com/GatzArthur/RCA-Distribuicao</p>
+<p align='left'>RCA Distribuição: https://gatzarthur.github.io/RCA-Distribuicao/</p>
 </br>
 
 ---
